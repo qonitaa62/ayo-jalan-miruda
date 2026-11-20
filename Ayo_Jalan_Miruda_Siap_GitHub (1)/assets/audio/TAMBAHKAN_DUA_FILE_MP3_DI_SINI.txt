@@ -1,1 +1,0 @@
-Letakkan backsound_home.mp3 dan backsound_game.mp3 di folder ini.\n
