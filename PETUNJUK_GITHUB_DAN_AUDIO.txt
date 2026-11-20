@@ -1,0 +1,16 @@
+PAKET AYO JALAN, MIRUDA! — SIAP UNGGAH KE GITHUB PAGES
+
+1. Isi folder ini diunggah ke repository GitHub (jangan unggah folder pembungkusnya saja).
+2. index.html harus berada di root repository.
+3. Tambahkan dua file musik MP3 milik Anda ke assets/audio/ dengan nama persis:
+   - backsound_home.mp3
+   - backsound_game.mp3
+4. Jika hanya punya satu lagu, salin lagu yang sama dua kali dan beri kedua nama di atas.
+5. Di GitHub: Settings > Pages > Build and deployment > Deploy from a branch.
+   Pilih branch main dan folder /(root), lalu Save.
+6. Buka tautan yang ditampilkan di bagian GitHub Pages setelah deployment selesai.
+
+Catatan:
+- Audio tidak disertakan karena file musik Anda belum diunggah dalam percakapan ini.
+- Browser biasanya memerlukan sentuhan/klik pertama sebelum mengizinkan musik diputar.
+- Pastikan Anda memiliki izin untuk menggunakan dan membagikan musik yang diunggah.
